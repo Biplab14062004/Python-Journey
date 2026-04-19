@@ -1,0 +1,11 @@
+str = "Chicken Butter Masala"
+length = len(str)
+print(length)
+firsthalf= (str[0:7])
+trailfirsthalf= (str[:7])
+secondhalf= (str[8:14])
+thirdhalf= (str[15:len(str)])
+print(firsthalf)
+print(trailfirsthalf)
+print(secondhalf)
+print(thirdhalf)
